@@ -1,0 +1,30 @@
+{
+  "name": "coffe-shop",
+  "version": "1.0.0",
+  "description": "A simple website for NextJs testing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamukaM/Next-js-Website.git"
+  },
+  "keywords": [
+    "Front-end",
+    "Back-end",
+    "NextJs",
+    "React"
+  ],
+  "author": "Samuel Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamukaM/Next-js-Website/issues"
+  },
+  "homepage": "https://github.com/SamukaM/Next-js-Website#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
